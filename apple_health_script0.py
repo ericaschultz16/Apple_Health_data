@@ -71,3 +71,25 @@ for i in range(len(type_list)):
 #This method gives me a "SettingWithCopyWarning" (even though this is a solution I found for this warning). It does appear that the change is made to the DF, but if I can find a better solution that doesn't give me the warning that would be better.
 print(df_workouts['@workoutActivityType'].value_counts())
 
+#%%
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
